@@ -1,0 +1,7 @@
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  body{
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
